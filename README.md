@@ -4,4 +4,6 @@ Touring utilizes the MERN stack (MongoDB, Express.js, React.js, and Node.js) to 
 
 Users can create an account and securely log in to access additional features such as commenting and rating our tour.
 
-think you!
+It also have advanced search options, enabling users to quickly find our tours.
+
+Thank you!
